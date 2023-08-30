@@ -6,7 +6,7 @@ We are mainly working on java vulnerability research.
 
 我们团队成员 (Our Members)
 - Y4tacker (https://github.com/Y4tacker)
-- 4ra1n (https://github.com/4ra1m)
+- 4ra1n (https://github.com/4ra1n)
 - Z3eyOnd (https://github.com/Z3eyOnd)
 - bluE0 (https://github.com/bluE0a)
 - chybeta (https://github.com/CHYbeta)
