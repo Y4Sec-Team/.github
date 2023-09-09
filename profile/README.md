@@ -14,5 +14,6 @@
 - [01. JDK CVE-2023-21939 分析利用](https://mp.weixin.qq.com/s?__biz=MzkzOTQzOTE1NQ==&mid=2247483750&idx=1&sn=12a793075d0a8713bbfb4341b3591628&chksm=c2f1a43af5862d2cc898be9e4b43b24d24b29173501d3c10d812a8fcb7dd25d858e3095969ea#rd)
 - [02. 记一次 Fastjson Gadget 寻找](https://mp.weixin.qq.com/s?__biz=MzkzOTQzOTE1NQ==&mid=2247483776&idx=1&sn=65095fa1689cf74fb376ec7fdf05f4f5&chksm=c2f1a4dcf5862dca7b4f12850269a2da57b4f45c4a556cafe42243af8683a8a85e202c2e1c29#rd)
 - [03. JDBC Attack URL 绕过合集](https://mp.weixin.qq.com/s?__biz=MzkzOTQzOTE1NQ==&mid=2247483794&idx=1&sn=5889cdcea1f972a099d1c09f8019a927&chksm=c2f1a4cef5862dd860bdfbfc912c99771f41da23189fd3d777d65be91cfe00c17c451a7380c1#rd)
+- [04. JVMTI 加密字节码详解](https://mp.weixin.qq.com/s?__biz=MzkzOTQzOTE1NQ==&mid=2247483823&idx=1&sn=a3ae476ccedd2d7fec96e5887989d1c0&chksm=c2f1a4f3f5862de57ce35ebcbf1c39f231ec282934ae8740654be372b1ca4f712c6c101c91e6#rd)
 
 注意：目前 `Y4Sec Team` 暂不招人，计划2023年底左右正式成立团队并招人
